@@ -25,7 +25,7 @@ que contiene un wrapper para la API de Matlab-Oanda.
 
 ## Referencias
 
-- [Post contenidos](http://roic.mx/api_myst)
+- [Post](http://roic.mx/api_myst)
 - [Blog](http://roic.mx)
 - [Facebook](https://www.facebook.com/Roicifmx)
 
