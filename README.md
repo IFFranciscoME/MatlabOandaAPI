@@ -6,7 +6,7 @@ https://github.com/tradeasystems/MatlabOanda_Wrapper
 
 ## Requerimientos:
 
-    Cuenta de práctica/real en OANDA.
+- Cuenta de práctica/real en OANDA.
     Plataforma FX Desktop Practice/Live de OANDA
     TOKEN
     Número de cuenta.
