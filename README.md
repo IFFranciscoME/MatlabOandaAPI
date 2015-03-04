@@ -16,7 +16,7 @@ https://github.com/tradeasystems/MatlabOanda_Wrapper
 ## Recursos:
 
 - Plataforma de escritorio OANDA
-        -- http://fxtrade.oanda.com/trade-forex/fxtrade/desktop
+        - http://fxtrade.oanda.com/trade-forex/fxtrade/desktop
 - Acceso a cuenta de OANDA
         https://fxtrade.oanda.com/demo-account/login?app_name=SecureSignIn
 - OANDA Developer Center
