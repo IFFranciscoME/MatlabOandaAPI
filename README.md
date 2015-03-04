@@ -22,7 +22,7 @@ https://github.com/tradeasystems/MatlabOanda_Wrapper
 - OANDA Developer Center
         http://developer.oanda.com/rest-live/introduction/
 - Versión de Prueba MATLAB
-        https://www.mathworks.com/programs/trials/trial_request.html?
+        https://www.mathworks.com/programs/trials/trial_request.html
 - Apoyo y comunidad en MATLAB
         http://www.mathworks.com/matlabcentral/
 - Toolboxes
@@ -31,4 +31,5 @@ https://github.com/tradeasystems/MatlabOanda_Wrapper
 
 ## Referencias
 
-- Pagina Oficial http://roic.mx/api_myst/
+- Blog Oficial http://roic.mx/api_myst/
+- Facebook https://www.facebook.com/Roicifmx
