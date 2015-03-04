@@ -1,8 +1,7 @@
 # Adaptación e Implementación de WRAPPER para la API MATLAB-OANDA
 
 ## Introduccion
-Codigo basado en la valiosa contribución de TradeASystems 
-[TradeASystems](https://github.com/tradeasystems/MatlabOanda_Wrapper)
+Codigo basado en la valiosa contribución de [TradeASystems](https://github.com/tradeasystems/MatlabOanda_Wrapper)
 
 
 ## Requerimientos:
@@ -16,19 +15,13 @@ Codigo basado en la valiosa contribución de TradeASystems
 
 ## Recursos:
 
-- Plataforma de escritorio OANDA
-        - http://fxtrade.oanda.com/trade-forex/fxtrade/desktop
-- Acceso a cuenta de OANDA
-        https://fxtrade.oanda.com/demo-account/login?app_name=SecureSignIn
-- OANDA Developer Center
-        http://developer.oanda.com/rest-live/introduction/
-- Versión de Prueba MATLAB
-        https://www.mathworks.com/programs/trials/trial_request.html
-- Apoyo y comunidad en MATLAB
-        http://www.mathworks.com/matlabcentral/
-- Toolboxes
-        JSONLAB
-        urlread2
+- Plataforma de escritorio OANDA: [Link](http://fxtrade.oanda.com/trade-forex/fxtrade/desktop)
+- Acceso a cuenta de OANDA: [Link](https://fxtrade.oanda.com/demo-account/login?app_name=SecureSignIn)
+- OANDA Developer Center: [Link](http://developer.oanda.com/rest-live/introduction/)
+- Versión de Prueba MATLAB: [Link](https://www.mathworks.com/programs/trials/trial_request.html)
+- Apoyo y comunidad en MATLAB: [Link](http://www.mathworks.com/matlabcentral/)
+- Toolbox: [JSONLAB](http://www.mathworks.com/matlabcentral/fileexchange/33381-jsonlab--a-toolbox-to-encode-decode-json-files-in-matlab-octave)
+- Toolbox: [urlread2](http://www.mathworks.com/matlabcentral/fileexchange/35693-urlread2   )
 
 ## Referencias
 
