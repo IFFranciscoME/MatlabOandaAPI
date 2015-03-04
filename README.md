@@ -2,7 +2,7 @@
 
 ## Introduccion
 Codigo basado en la valiosa contribución de TradeASystems 
-[Repositorio en Github](https://github.com/tradeasystems/MatlabOanda_Wrapper "Repositorio en Github")
+[TradeASystems](https://github.com/tradeasystems/MatlabOanda_Wrapper)
 
 
 ## Requerimientos:
