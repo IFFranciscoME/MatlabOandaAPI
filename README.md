@@ -25,9 +25,9 @@ que contiene un wrapper para la API de Matlab-Oanda.
 
 ## Referencias
 
-- [Post](http://roic.mx/api_myst)
-- [Blog](http://roic.mx)
-- [Facebook](https://www.facebook.com/Roicifmx)
+- [Post](http://roic.mx/api_myst): Información a detalle
+- [Blog](http://roic.mx): Otras aplicaciones y modelos
+- [Facebook](https://www.facebook.com/Roicifmx): Seguimiento a noticias/mercados
 
 ## Agradecimientos
 - Qianqian Fang (JSONLAB)
