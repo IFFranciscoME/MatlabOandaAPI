@@ -27,3 +27,8 @@ Codigo basado en la valiosa contribución de [TradeASystems](https://github.com/
 
 - Blog Oficial http://roic.mx/api_myst/
 - Facebook https://www.facebook.com/Roicifmx
+- 
+## Agradecimientos
+- Qianqian Fang (JSONLAB)
+- Jim Hokanson(URLREAD2)
+- TradeASystems (Wrapper)
