@@ -15,13 +15,13 @@ Codigo basado en la valiosa contribución de [TradeASystems](https://github.com/
 
 ## Recursos:
 
-- Plataforma de escritorio OANDA: [Link](http://fxtrade.oanda.com/trade-forex/fxtrade/desktop)
-- Acceso a cuenta de OANDA: [Link](https://fxtrade.oanda.com/demo-account/login?app_name=SecureSignIn)
-- OANDA Developer Center: [Link](http://developer.oanda.com/rest-live/introduction/)
-- Versión de Prueba MATLAB: [Link](https://www.mathworks.com/programs/trials/trial_request.html)
-- Apoyo y comunidad en MATLAB: [Link](http://www.mathworks.com/matlabcentral/)
-- Toolbox: [JSONLAB](http://www.mathworks.com/matlabcentral/fileexchange/33381-jsonlab--a-toolbox-to-encode-decode-json-files-in-matlab-octave)
-- Toolbox: [urlread2](http://www.mathworks.com/matlabcentral/fileexchange/35693-urlread2   )
+- [FxTrade](http://fxtrade.oanda.com/trade-forex/fxtrade/desktop): Plataforma de escritorio OANDA 
+- [LogIn](https://fxtrade.oanda.com/demo-account/login?app_name=SecureSignIn): Acceso a cuenta de OANDA
+- [Developer](http://developer.oanda.com/rest-live/introduction/): OANDA Developer Center
+- [Matlab](https://www.mathworks.com/programs/trials/trial_request.html): Versión de Prueba MATLAB 
+- [Matlab](http://www.mathworks.com/matlabcentral/): Apoyo y comunidad en MATLAB 
+- [JSONLAB](http://www.mathworks.com/matlabcentral/fileexchange/33381-jsonlab--a-toolbox-to-encode-decode-json-files-in-matlab-octave): Primer toolbox necesario
+- [urlread2](http://www.mathworks.com/matlabcentral/fileexchange/35693-urlread2   ): Segundo toolbox necesario
 
 ## Referencias
 
