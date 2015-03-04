@@ -6,12 +6,12 @@ Codigo basado en la valiosa contribución de [TradeASystems](https://github.com/
 
 ## Requerimientos:
 
-- Cuenta de práctica/real en OANDA.
-- Plataforma FX Desktop Practice/Live de OANDA
-- TOKEN
-- Número de cuenta.
-- MATLAB 2011(a)(b) o versiones recientes.
-- JAVA instalado en la computadora
+1. Cuenta de práctica/real en OANDA.
+2. Plataforma FX Desktop Practice/Live de OANDA
+3. TOKEN
+4. Número de cuenta.
+5. MATLAB 2011(a)(b) o versiones recientes.
+6. JAVA instalado en la computadora
 
 ## Recursos:
 
