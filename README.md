@@ -2,7 +2,7 @@
 
 ## Introduccion
 Codigo basado en la valiosa contribución de [TradeASystems](https://github.com/tradeasystems/MatlabOanda_Wrapper)
-
+que contiene un wrapper para la API de Matlab-Oanda.
 
 ## Requerimientos:
 
