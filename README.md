@@ -31,5 +31,5 @@ Codigo basado en la valiosa contribución de [TradeASystems](https://github.com/
 
 ## Agradecimientos
 - Qianqian Fang (JSONLAB)
-- Jim Hokanson(URLREAD2)
+- Jim Hokanson (URLREAD2)
 - TradeASystems (Wrapper)
